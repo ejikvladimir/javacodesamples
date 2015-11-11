@@ -1,6 +1,6 @@
 class Tax {
     double grossIncome; // class member variables
-    String state;
+    String state;       // the state in the United States of America
     int dependents;
    
     // First Constructor
